@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp661", "ConsoleApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp662", "ConsoleApp662\ConsoleApp662.csproj", "{4029BF76-7EE7-4276-A45B-DEBDAF27DE1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp714", "ConsoleApp714\ConsoleApp714.csproj", "{0F1EB461-CD88-4F50-8D84-C6363DDC7BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp714", "ConsoleApp714\ConsoleApp714.csproj", "{0F1EB461-CD88-4F50-8D84-C6363DDC7BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp715", "ConsoleApp715\ConsoleApp715.csproj", "{EAD7D0C3-8B49-4A7F-9875-93B2AF5591F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp715", "ConsoleApp715\ConsoleApp715.csproj", "{EAD7D0C3-8B49-4A7F-9875-93B2AF5591F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp717", "ConsoleApp717\ConsoleApp717.csproj", "{41CAFC78-C903-4E2A-8045-832802FFE9A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{EAD7D0C3-8B49-4A7F-9875-93B2AF5591F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAD7D0C3-8B49-4A7F-9875-93B2AF5591F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAD7D0C3-8B49-4A7F-9875-93B2AF5591F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CAFC78-C903-4E2A-8045-832802FFE9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CAFC78-C903-4E2A-8045-832802FFE9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CAFC78-C903-4E2A-8045-832802FFE9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CAFC78-C903-4E2A-8045-832802FFE9A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
