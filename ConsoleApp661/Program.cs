@@ -16,7 +16,7 @@ namespace ConsoleApp661
 
         private void ChangeColor(string color)
         {
-
+            this.color = color;
         }
 
         public string GetColor()
